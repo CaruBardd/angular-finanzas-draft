@@ -1,0 +1,20 @@
+:host {
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: aliceblue;
+  padding: 1.1em 0;
+  margin-bottom: 0.5em;
+
+  img {
+    width: 4em;
+  }
+
+  h1 {
+    margin: 0 1em;
+    color:navy;
+  }
+}
